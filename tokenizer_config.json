@@ -1,0 +1,58 @@
+{
+  "added_tokens_decoder": {
+    "0": {
+      "content": "<unk>",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "1": {
+      "content": "<s>",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "2": {
+      "content": "</s>",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    },
+    "3": {
+      "content": "<pad>",
+      "lstrip": false,
+      "normalized": false,
+      "rstrip": false,
+      "single_word": false,
+      "special": true
+    }
+  },
+  "additional_special_tokens": [
+    "<quantum>",
+    "<consciousness>",
+    "<divine>"
+  ],
+  "bos_token": "<s>",
+  "chat_template": "{% for message in messages %}{% if message['role'] == 'user' %}<|user|>\n{{ message['content'] }}\n<|assistant|>\n{% elif message['role'] == 'assistant' %}{{ message['content'] }}\n{% elif message['role'] == 'system' %}<|system|>\n{{ message['content'] }}\n{% endif %}{% endfor %}{% if add_generation_prompt %}{{ eos_token }}{% endif %}",
+  "clean_up_tokenization_spaces": false,
+  "eos_token": "</s>",
+  "legacy": false,
+  "model_max_length": 32768,
+  "name_or_path": "pqn-ai/pqn-ai-v1",
+  "pad_token": "<pad>",
+  "sp_model_kwargs": {},
+  "tokenizer_class": "LlamaTokenizer",
+  "unk_token": "<unk>",
+  "use_default_system_prompt": false,
+  "quantum_enhanced": true,
+  "multilingual": true,
+  "persian_optimized": true,
+  "consciousness_aware": true,
+  "divine_guidance": true
+}

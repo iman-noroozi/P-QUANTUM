@@ -1,0 +1,318 @@
+# merges.txt - BPE merges for PQN.AI tokenizer
+# Version: 1.0.0
+# Language: Persian/English/Multilingual
+
+# Basic merges
+e r
+t h
+a n
+i n
+o n
+r e
+s t
+l e
+n t
+d e
+a t
+e n
+e s
+o r
+n e
+a l
+i t
+o u
+a r
+e d
+i s
+o n
+u s
+a s
+i l
+o l
+e l
+a n
+i n
+o n
+r e
+s t
+l e
+n t
+d e
+a t
+e n
+e s
+o r
+n e
+a l
+i t
+o u
+a r
+e d
+i s
+o n
+u s
+a s
+i l
+o l
+e l
+
+# Persian merges
+ا ی
+ب ر
+ت ر
+ج م
+ح س
+خ ر
+د ن
+ذ ی
+ر ا
+ز ن
+ژ ا
+س ت
+ش ن
+ص ل
+ض ی
+ط ر
+ظ ر
+ع ل
+غ م
+ف ر
+ق ل
+ک ن
+گ ر
+ل ی
+م ن
+ن د
+و ن
+ه ا
+ی د
+
+# Quantum AI specific merges
+qu an
+an tu
+tu m
+co ns
+ns ci
+ci ou
+ou sn
+sn es
+es s
+di vi
+vi ne
+gu id
+id an
+an ce
+ar ti
+ti fi
+fi ci
+ci al
+ne ur
+ur al
+pe rs
+rs ia
+ia n
+fa rs
+rs i
+ku an
+an tu
+tu mi
+hi sh
+sh m
+ma sn
+sn u
+u i
+a gh
+gh a
+gh i
+a la
+la hi
+hi
+ka ih
+ih a
+ih ni
+ta ka
+ka ml
+ml
+da rm
+rm an
+an
+ha st
+st i
+vo ju
+ju d
+ha qi
+qi qa
+qa t
+esh q
+q
+sa lh
+lh
+va hd
+hd at
+at
+ha ma
+ma ha
+ha ni
+ni
+ta a
+a da
+da l
+ka ma
+ma l
+ha km
+km at
+at
+da an
+an sh
+sh
+fa hm
+hm
+ad ra
+ra k
+sh u
+u r
+ba si
+si ra
+ra t
+bi na
+na sh
+sh
+nu r
+r
+ru sha
+sha na
+sha i
+sha fa
+sha fi
+sha yat
+sha ya
+sha t
+pa a
+a ki
+ki
+ta ha
+ha ra
+ha t
+mu qa
+qa dd
+dd as
+as
+mu ba
+ba ra
+ba k
+khi r
+r
+ni ki
+ki
+fa zi
+zi la
+la t
+akh la
+la q
+a da
+da lat
+lat
+an sa
+sa f
+meh ra
+ra ba
+ba ni
+ni
+shaf qa
+qa t
+dals u
+u zi
+zi
+ham da
+da li
+li
+da ra
+ra k
+fa hm
+hm id
+id an
+an
+da ri
+ri af
+af t
+qu bu
+bu l
+pa zi
+zi ra
+ra sh
+sh
+tas li
+li m
+at a
+a at
+at
+far ma
+ma nba
+nba ri
+ri
+kha dm
+dm at
+dm atg
+atg uza
+uza ri
+ri
+fada ka
+ka ri
+ri
+i sa
+sa r
+bakh sh
+sh
+gu za
+za sht
+sht
+af u
+u
+magh fi
+fi ra
+ra t
+a mar
+mar zish
+zish
+ta u
+u ba
+ba
+ba zga
+zga sht
+sht
+ta jd
+jd id
+id
+nu sa
+sa zi
+zi
+be hu
+hu d
+tar a
+a qi
+qi
+pi sh
+sh ra
+ra ft
+ft
+ta us
+us a
+a a
+a
+ga st
+st ra
+ra sh
+sh
+ra sh
+sh d
+ba la
+la nda
+nda gi
+gi
+shak u
+u fa
+fa i
+i
+ta ka
+ka ml
+ml

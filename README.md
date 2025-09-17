@@ -283,7 +283,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Contact
 
 - **GitHub**: [iman-noroozi/pqn.ai](https://github.com/iman-noroozi/pqn.ai)
-- **Email**: iman.noroozi@pqn.ai
+- **Email**: imannoroozi@hotmail.com
 - **Website**: [pqn.ai](https://pqn.ai)
 
 ## 🌟 Star History
